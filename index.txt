@@ -1,6 +1,0 @@
-hello
-hii
-how are you
-testing
-this file
-is index
